@@ -7,7 +7,7 @@ function HomePage (){
         <div>
           <Navbar/>
           <SearchSection/>
-         
+          
         </div>
     )
 }
